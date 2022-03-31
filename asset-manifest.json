@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://boston1319.github.io/csb-jvuwn3/static/css/main.84187058.chunk.css",
+    "main.js": "https://boston1319.github.io/csb-jvuwn3/static/js/main.dc8c3992.chunk.js",
+    "main.js.map": "https://boston1319.github.io/csb-jvuwn3/static/js/main.dc8c3992.chunk.js.map",
+    "runtime-main.js": "https://boston1319.github.io/csb-jvuwn3/static/js/runtime-main.7de0f890.js",
+    "runtime-main.js.map": "https://boston1319.github.io/csb-jvuwn3/static/js/runtime-main.7de0f890.js.map",
+    "static/js/2.3dbd972c.chunk.js": "https://boston1319.github.io/csb-jvuwn3/static/js/2.3dbd972c.chunk.js",
+    "static/js/2.3dbd972c.chunk.js.map": "https://boston1319.github.io/csb-jvuwn3/static/js/2.3dbd972c.chunk.js.map",
+    "index.html": "https://boston1319.github.io/csb-jvuwn3/index.html",
+    "static/css/main.84187058.chunk.css.map": "https://boston1319.github.io/csb-jvuwn3/static/css/main.84187058.chunk.css.map",
+    "static/js/2.3dbd972c.chunk.js.LICENSE.txt": "https://boston1319.github.io/csb-jvuwn3/static/js/2.3dbd972c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7de0f890.js",
+    "static/js/2.3dbd972c.chunk.js",
+    "static/css/main.84187058.chunk.css",
+    "static/js/main.dc8c3992.chunk.js"
+  ]
+}
